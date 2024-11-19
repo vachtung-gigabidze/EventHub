@@ -1,5 +1,6 @@
 import 'dart:ui';
 
+import 'package:even_hub/screens/event_details_screen.dart';
 import 'package:even_hub/screens/explore_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -21,6 +22,7 @@ class MainApp extends StatelessWidget {
       
     },
   ),
+      // home:  const EventDetailsScreen()
       home:  ExploreScreen()
       
     );
