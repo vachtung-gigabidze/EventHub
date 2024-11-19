@@ -22,8 +22,8 @@ class MainApp extends StatelessWidget {
       
     },
   ),
-      // home:  const EventDetailsScreen()
-      home:  ExploreScreen()
+      home:  const EventDetailsScreen()
+      // home:  ExploreScreen()
       
     );
   }

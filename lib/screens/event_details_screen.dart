@@ -1,3 +1,4 @@
+import 'package:even_hub/screens/botton_sheet.dart';
 import 'package:even_hub/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 
@@ -22,7 +23,15 @@ class EventDetailsScreen extends StatelessWidget {
             bottom: 13,
             right: 14.32,
             child: Container(height: 36, width: 36, decoration: BoxDecoration(color: Color(0xFF979797), borderRadius: BorderRadius.circular(10)),
-            child: const Icon(Icons.bookmark, color: Colors.white, size: 18,),
+            child: InkWell(onTap: () {
+              showModalBottomSheet<void>(
+            context: context,
+            builder: (BuildContext context) {
+              return BottomSheetExample();
+            },
+          );
+        
+            }, child: const Icon(Icons.bookmark, color: Colors.white, size: 18,)),
             )),
               ],),
             Padding(
