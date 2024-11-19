@@ -14,17 +14,14 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-  scrollBehavior: ScrollConfiguration.of(context).copyWith(
-    dragDevices: {
-      PointerDeviceKind.touch,
-      PointerDeviceKind.mouse,
-      
-    },
-  ),
-      home:  const EventDetailsScreen()
-      // home:  ExploreScreen()
-      
-    );
+        debugShowCheckedModeBanner: false,
+        scrollBehavior: ScrollConfiguration.of(context).copyWith(
+          dragDevices: {
+            PointerDeviceKind.touch,
+            PointerDeviceKind.mouse,
+          },
+        ),
+        // home: const EventDetailsScreen()
+        home: const ExploreScreen());
   }
 }
