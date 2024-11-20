@@ -30,41 +30,52 @@ class ShareBottomSheet extends StatelessWidget {
                 ),
                 Text(
                   'Share with friends',
-                  style: TextStyle(fontSize: 24),
+                  style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                 ),
               ],
             ),
             const SizedBox(
               height: 20,
             ),
-            const Row(
-              mainAxisAlignment: MainAxisAlignment.spaceAround,
-              children: [
-                ShareElementWidget(
-                    imagePath: "assets/images/copy_link.png",
-                    text: "Copy Link"),
-                ShareElementWidget(
-                    imagePath: "assets/images/whatsapp.png", text: "WhatsApp"),
-                ShareElementWidget(
-                    imagePath: "assets/images/facebook.png", text: "Facebook"),
-                ShareElementWidget(
-                    imagePath: "assets/images/messenger.png",
-                    text: "Messenger"),
-              ],
+            const Padding(
+              padding: EdgeInsets.only(left: 24.0, right: 24),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                children: [
+                  ShareElementWidget(
+                      imagePath: "assets/images/copy_link.png",
+                      text: "Copy Link"),
+                  ShareElementWidget(
+                      imagePath: "assets/images/whatsapp.png",
+                      text: "WhatsApp"),
+                  ShareElementWidget(
+                      imagePath: "assets/images/facebook.png",
+                      text: "Facebook"),
+                  ShareElementWidget(
+                      imagePath: "assets/images/messenger.png",
+                      text: "Messenger"),
+                ],
+              ),
             ),
-            const Row(
-              mainAxisAlignment: MainAxisAlignment.spaceAround,
-              children: [
-                ShareElementWidget(
-                    imagePath: "assets/images/twitter.png", text: "Twitter"),
-                ShareElementWidget(
-                    imagePath: "assets/images/instagram.png",
-                    text: "Instagram"),
-                ShareElementWidget(
-                    imagePath: "assets/images/skype.png", text: "Skype"),
-                ShareElementWidget(
-                    imagePath: "assets/images/message.png", text: "Message"),
-              ],
+            const SizedBox(
+              height: 15,
+            ),
+            const Padding(
+              padding: EdgeInsets.only(left: 24.0, right: 24),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                children: [
+                  ShareElementWidget(
+                      imagePath: "assets/images/twitter.png", text: "Twitter"),
+                  ShareElementWidget(
+                      imagePath: "assets/images/instagram.png",
+                      text: "Instagram"),
+                  ShareElementWidget(
+                      imagePath: "assets/images/skype.png", text: "Skype"),
+                  ShareElementWidget(
+                      imagePath: "assets/images/message.png", text: "Message"),
+                ],
+              ),
             ),
             const SizedBox(
               height: 35,

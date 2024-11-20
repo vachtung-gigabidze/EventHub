@@ -24,7 +24,7 @@ class EventDetailsScreen extends StatelessWidget {
                         height: 36,
                         width: 36,
                         decoration: BoxDecoration(
-                            color: const Color(0xFF979797),
+                            color: const Color.fromRGBO(151, 151, 151, .3),
                             borderRadius: BorderRadius.circular(10)),
                         child: InkWell(
                             onTap: () {
@@ -36,7 +36,7 @@ class EventDetailsScreen extends StatelessWidget {
                               );
                             },
                             child: const Icon(
-                              Icons.bookmark,
+                              Icons.share_outlined,
                               color: Colors.white,
                               size: 18,
                             )),

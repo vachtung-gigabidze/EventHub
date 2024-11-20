@@ -32,14 +32,18 @@ class CategoryRowWidget extends StatelessWidget {
               width: 11.28,
             ),
             CategoryWidget(
-                title: "Food", color: Color(0xff29d697), icon: Icons.food_bank),
+              title: "Food",
+              color: Color(0xff29d697),
+              icon: Icons.food_bank,
+            ),
             SizedBox(
               width: 11.28,
             ),
             CategoryWidget(
-                title: "Art",
-                color: Color(0xff46CDFB),
-                icon: Icons.paid_outlined),
+              title: "Art",
+              color: Color(0xff46CDFB),
+              icon: Icons.palette,
+            ),
             SizedBox(
               width: 24,
             ),
