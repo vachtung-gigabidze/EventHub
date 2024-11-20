@@ -1,0 +1,997 @@
+{
+    "count": 162,
+    "next": "https://kudago.com/public-api/v1.4/events/?actual_since=&actual_until=&categories=concert&expand=&fields=id%2Cpublication_date%2Cdates%2Ctitle%2Cshort_title%2Cslug%2Cplace%2Cdescription%2Cbody_text%2Clocation%2Ccategories%2Ctagline%2Cage_restriction%2Cprice%2Cis_free%2Cimages%2Cfavorites_count%2Ccomments_count%2Csite_url%2Ctags%2Cparticipants&ids=&is_free=&lang=&lat=&location=&location=krd&lon=&order_by=-publication_date%2C-rank%2C-id+&page=2&radius=&text_format=",
+    "previous": null,
+    "results": [
+        {
+            "id": 207911,
+            "publication_date": 1702483213,
+            "dates": [
+                {
+                    "start": 1702483200,
+                    "end": 1702483200
+                }
+            ],
+            "title": "музыкальное шоу ABBA — Happy New Year",
+            "slug": "kontsert-abba-happy-new-year",
+            "place": {
+                "id": 4426
+            },
+            "description": "<p>Предновогоднее шоу перенесёт зрителей в атмосферу концерта легендарной группы, чья песня Happy New Year стала одним из символов праздника.</p>",
+            "body_text": "<p>Шоу ABBA Mia, полюбившееся тысячам зрителей, приедет в Краснодар в новогоднем формате. Все детали шоу — облик артистов, костюмы, свет, звучание голосов — проработаны таким образом, что создаётся полное ощущение присутствия на оригинальном концерте легендарного шведского квартета.</p><p>ABBA — одна из самых успешных групп в истории поп-музыки. Их песни Dancing Queen, Mamma Mia, SOS и многие другие хиты знают и любят во всём мире спустя десятилетия после их написания. В этот вечер бессмертные композиции прозвучат в живом исполнении в сопровождении симфонического оркестра. Зрителей ждёт мощная энергия, драйв и настроение праздника!</p><blockquote class=\"directSpeech\"><div class=\"directSpeech-image\" style=\"background-image: url(//media.kudago.com/thumbs/direct_speech/images/rich_editor/e1/04/e104eb28b8e1390eb324db2e691a9ecc.jpg);\"></div><div class=\"directSpeech-content\"><div class=\"directSpeech-title\"><p>Елена Олина, продюсер шоу:</p></div><p class=\"directSpeech-text\"><p>«Лично для меня, с самого раннего детства, музыка группы ABBA – это всегда яркий праздник, фейерверк эмоций в сочетании со знакомыми мелодиями. Во время подготовки шоу мы прежде всего хотели добиться уникального звучания группы ABBA, большое количество времени наши вокалисты проводили в репетициях музыкальных номеров. На наш концерт можно прийти в компании лучших друзей или пригласить родителей и провести с ними незабываемый вечер!»</p></p></div></blockquote><p>Подробная информация о музыкальном шоу ABBA Mia — <a class=\"external-link\" href=\"https://abbamia.ru/\" target=\"_blank\">на сайте.</a> Купить билеты можно <a class=\"external-link\" href=\"https://abbamia.ru/concerts/2023/04-dekabrya-2023-krasnodar/\" target=\"_blank\">по ссылке</a>. </p><p>Присоединяйтесь <a class=\"external-link\" href=\"https://vk.com/abba_mia\" target=\"_blank\">ВКонтакте</a>.</p><div class=\"contentSlider post-big-preview-slider swiper-container\"><div class=\"swiper-wrapper\"><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/6d/34/6d3402b3acb1ebdd90a01621508bb278.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/6d/34/6d3402b3acb1ebdd90a01621508bb278.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/26/10/2610dbc87809746efabb249d7b2b61ef.JPG\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/26/10/2610dbc87809746efabb249d7b2b61ef.JPG\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/e8/b0/e8b0febddab4c045d50e71ca18de8f8f.JPG\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/e8/b0/e8b0febddab4c045d50e71ca18de8f8f.JPG\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/3d/1f/3d1fb5a712600083435971811db723f8.JPG\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/3d/1f/3d1fb5a712600083435971811db723f8.JPG\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/81/8f/818fd01cda1934def6fbb5062d85487b.JPG\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/81/8f/818fd01cda1934def6fbb5062d85487b.JPG\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/75/13/75137dfe6ea9fb9d36d5bd89f358c085.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/75/13/75137dfe6ea9fb9d36d5bd89f358c085.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/aa/cd/aacd3a1afab40632a70d5a83bc0db49b.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/aa/cd/aacd3a1afab40632a70d5a83bc0db49b.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/4a/1c/4a1cf6ce8281ea27a32ffff643cc043c.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/4a/1c/4a1cf6ce8281ea27a32ffff643cc043c.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/34/95/349530d06ac30011ea7e33874954ee29.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/34/95/349530d06ac30011ea7e33874954ee29.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/73/2a/732a85061c03bf3f8607fa9ff2f14588.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/73/2a/732a85061c03bf3f8607fa9ff2f14588.jpg\"/></div></div><div class=\"contentSlider-pagination post-preview-pagination\"></div><div class=\"contentSlider-navigation\"><div class=\"swiper-button-prev\"></div><div class=\"swiper-button-next\"></div></div><div class=\"swiper-button-fullscreen\"></div></div><div class=\"contentVideo\"><div class=\"contentVideo-outer\"></div></div>",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert",
+                "entertainment"
+            ],
+            "tagline": "",
+            "age_restriction": "12+",
+            "price": "от 1200 до 3500 руб.",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/51/5c/515ca814bfa5125ddf84cc2b0f0cabea.jpg",
+                    "source": {
+                        "name": "предоставлено организатором",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 1,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/kontsert-abba-happy-new-year/",
+            "short_title": "ABBA — Happy New Year",
+            "tags": [
+                "12+",
+                "поп-музыка",
+                "концерты",
+                "шоу",
+                "хиты",
+                "новогодние концерты",
+                "развлечения",
+                "каверы"
+            ],
+            "participants": []
+        },
+        {
+            "id": 207412,
+            "publication_date": 1698249606,
+            "dates": [
+                {
+                    "start": 1698249600,
+                    "end": 1698249600
+                }
+            ],
+            "title": "музыкальное шоу Pink Floyd Universe с симфоническим оркестром",
+            "slug": "kontsert-pink-floyd-universe",
+            "place": {
+                "id": 4426
+            },
+            "description": "<p>Трибьют-шоу Pink Floyd Universe — это погружение во вселенную легендарной британской группы, ювелирно воссозданное оригинальное звучание и завораживающие видеоинсталляции.</p>",
+            "body_text": "<p>Уникальное двухчасовое шоу с живым звуком создаст полное ощущение присутствия на концерте Pink Floyd. Звучание легендарного коллектива воссоздано с максимальной точностью, а сопровождают его световые и лазерные спецэффекты. Внешний облик музыкантов тоже практически не отличим от оригинала.</p><p>Зрителей ждут знаменитые композиции, мощь симфонического оркестра и невероятный драйв. Посетить шоу стоит как поклонникам творчества Pink Floyd всех возрастов, так и тем, кто хочет услышать качественную музыку в профессиональном исполнении и зарядиться новыми яркими впечатлениями.</p><blockquote class=\"directSpeech\"><div class=\"directSpeech-image\" style=\"background-image: url(//media.kudago.com/thumbs/direct_speech/images/rich_editor/8f/b4/8fb4bddaa8cd95d5b4d98fa73302f7a3.png);\"></div><div class=\"directSpeech-content\"><div class=\"directSpeech-title\"><p>Елена Олина, продюсер шоу:</p></div><p class=\"directSpeech-text\"><p>«Ни для кого не секрет, что британская группа Pink Floyd является одной из наиболее успешных и влиятельных в истории мировой рок-музыки и покорила она мир, в первую очередь, своим нетривиальным и авангардным подходом ко многим деталям в музыкальном промоушене — это и уникальные тексты, и продолжительность композиций, звуковые эксперименты, дизайны обложек и грандиозные концертные шоу. Работая над созданием нашего шоу Pink Floyd Universe,  мы, безусловно, опирались на уникальный бэкграунд группы Pink Floyd, её неординарный музыкальный стиль и оригинальный саунд. Мы постарались включить в наше шоу все культовые хиты легендарной группы. Мне кажется, что оркестр подчеркивает всю эмоциональность и глубину музыки Pink Floyd, придавая великим произведениям новое звучание. Наше шоу Pink Floyd Universe — это два часа живого звука, невероятных инсталляций и крутого лазерного шоу! Приходите на наш концерт и разделите любовь к музыке Pink Floyd с нами!».</p></p></div></blockquote><p>Подробная информация — <a class=\"external-link\" href=\"https://floyd-universe.ru/\" target=\"_blank\">на официальном сайте</a>. Купить билет можно <a class=\"external-link\" href=\"https://floyd-universe.ru/concerts/2023/25-oktyabrya-2023-krasnodar/\" target=\"_blank\">на странице концерта</a>. График гастролей шоу Pink Floyd Universe смотрите <a class=\"external-link\" href=\"https://floyd-universe.ru/concerts/\" target=\"_blank\">по ссылке</a>.</p><div class=\"contentSlider post-big-preview-slider swiper-container\"><div class=\"swiper-wrapper\"><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/38/4d/384d672b644601b887de82f41c5d9e70.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/38/4d/384d672b644601b887de82f41c5d9e70.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/70/0c/700c914437f2d38a1efa95cf8dd9edd1.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/70/0c/700c914437f2d38a1efa95cf8dd9edd1.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/15/63/1563cea9e65575fdc80c7cfb79b7913b.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/15/63/1563cea9e65575fdc80c7cfb79b7913b.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/9d/23/9d2309d47592cb4cb7f66c53a66fc64c.png\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/9d/23/9d2309d47592cb4cb7f66c53a66fc64c.png\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/75/a2/75a22bcc0dcdf2ba60ace09ec5e58c98.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/75/a2/75a22bcc0dcdf2ba60ace09ec5e58c98.jpg\"/></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/bb/91/bb9161bd07012aee6b85ff6395563a04.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/bb/91/bb9161bd07012aee6b85ff6395563a04.jpg\"/></div></div><div class=\"contentSlider-pagination post-preview-pagination\"></div><div class=\"contentSlider-navigation\"><div class=\"swiper-button-prev\"></div><div class=\"swiper-button-next\"></div></div><div class=\"swiper-button-fullscreen\"></div></div><div class=\"contentVideo\"><div class=\"contentVideo-outer\"></div></div>",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert",
+                "entertainment"
+            ],
+            "tagline": "",
+            "age_restriction": "12+",
+            "price": "от 1200 до 3500 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/68/42/68422172fb5aaa63eb714cf688847942.jpeg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 1,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/kontsert-pink-floyd-universe/",
+            "short_title": "Pink Floyd Universe",
+            "tags": [
+                "12+",
+                "концерты",
+                "шоу",
+                "развлечения",
+                "каверы",
+                "рок и рок-н-ролл"
+            ],
+            "participants": []
+        },
+        {
+            "id": 203590,
+            "publication_date": 1679306509,
+            "dates": [
+                {
+                    "start": 1681228800,
+                    "end": 1681228800
+                }
+            ],
+            "title": "концерт группы «Операция Пластилин»",
+            "slug": "kontsert-operatsiya-plastilin-203590",
+            "place": {
+                "id": 33970
+            },
+            "description": "<p>Песни с новейшего альбома и проверенные хиты — в программе казанского концерта «Операции Пластилин».</p>",
+            "body_text": "<p>После вынужденного пандемийного простоя тамбовская группа «Операция Пластилин» готова с удвоенной силой генерировать драйв. Казанских фанатов анархо-балагана ждёт насыщенная программа, в которую войдут как ударные номера из альбома «Блэкаут» и предыдущих релизов. В клубе Reborn команда устроит фирменное рок-шоу с танцами и хоровым пением для тех, кто старается находить в жизни позитив вопреки обстоятельствам.</p>",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": "16+",
+            "price": "от 500 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/96/4d/964dcccb7e0fc2d617b98b39b2e0c277.jpg",
+                    "source": {
+                        "name": "ВКонтакте",
+                        "link": "https://vk.com/opg_ltd"
+                    }
+                }
+            ],
+            "favorites_count": 0,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/kontsert-operatsiya-plastilin-203590/",
+            "short_title": "Операция Пластилин",
+            "tags": [
+                "концерты",
+                "16+",
+                "рок и рок-н-ролл"
+            ],
+            "participants": [
+                {
+                    "role": {
+                        "slug": "participant"
+                    },
+                    "agent": {
+                        "id": 13549,
+                        "title": "группа «Операция Пластилин»",
+                        "slug": "gruppa-operatsiya-plastilin",
+                        "agent_type": "organization",
+                        "images": [],
+                        "site_url": "https://kudago.com/follow/gruppa-operatsiya-plastilin/",
+                        "is_stub": true
+                    }
+                }
+            ]
+        },
+        {
+            "id": 194210,
+            "publication_date": 1632927156,
+            "dates": [
+                {
+                    "start": 1636041600,
+                    "end": 1636056000
+                }
+            ],
+            "title": "концерт группы «Психея»",
+            "slug": "kontsert-psiheya-noyabr-2021",
+            "place": {
+                "id": 33970
+            },
+            "description": "<p>В этом году «Психее» исполнилось 25 лет. Чтобы вместе с поклонниками отпраздновать внушительную дату и презентовать новый альбом, музыканты отправляются в масштабный тур по стране. В Краснодаре легендарная группа выступит в баре Sgt. Pepper's.  </p>",
+            "body_text": "<p>Творчество «Психеи» соединяет в себе истинно рокерские настроения, авторскую лирику на русском языке и пришедшие из хип-хоп индустрии элементы техно. Музыканты виртуозно работают с живыми инструментами, совмещая их с компьютерными эффектами и тёрнтэйблизмом. В 2021 году кургано-петербургские киберкорметалисты выпустили новый студийный альбом, в котором продолжают придерживаться своего самобытного музыкального стиля. </p><p>На концерте группа презентует новые композиции и исполнит знаменитые хиты с прошлых альбомов. Шоу обещает быть зрелищным, ведь музыканты берут в тур собственное звуковое, световое и видеооборудование. Поклонники «Психеи» смогут приобрести мерч, компактные диски, виниловые пластинки и аудиокассеты с музыкой  группы. </p><div class=\"contentSlider post-big-preview-slider swiper-container\"><div class=\"swiper-wrapper\"><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/44/c2/44c2c21b5646367fa1a2e06f3efd07c3.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/44/c2/44c2c21b5646367fa1a2e06f3efd07c3.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://vk.com/psyshit_2021\" target=\"_blank\">vk.com</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/78/4f/784f4527201532d883486426c2a1896a.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/78/4f/784f4527201532d883486426c2a1896a.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://vk.com/psyshit_2021\" target=\"_blank\">vk.com</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/7f/ec/7fecff8d14e9264b6dfcd860b0d0ba0f.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/7f/ec/7fecff8d14e9264b6dfcd860b0d0ba0f.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://vk.com/psyshit_2021\" target=\"_blank\">vk.com</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/1b/22/1b22e2c11fcbbb9c16d59d4b891a390b.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/1b/22/1b22e2c11fcbbb9c16d59d4b891a390b.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://vk.com/psyshit_2021\" target=\"_blank\">vk.com</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/cd/72/cd72dc0a05580611f92c8478c7d5e780.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/cd/72/cd72dc0a05580611f92c8478c7d5e780.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://vk.com/psyshit_2021\" target=\"_blank\">vk.com</a></div></div></div><div class=\"contentSliderList-item post-big-preview-slide swiper-slide\"><img alt=\"\" class=\"contentImage-image contentImage-slider-image post-preview-image post-big-preview-image swiper-lazy\" data-full=\"//media.kudago.com/images/rich_editor/b0/10/b010011b901599dcf4d124ea2e0b4d45.jpg\" src=\"//media.kudago.com/thumbs/xl/images/rich_editor/b0/10/b010011b901599dcf4d124ea2e0b4d45.jpg\"/><div class=\"contentImage-source\"><div class=\"contentImage-sourceContent\">Фото: <a href=\"https://vk.com/psyshit_2021\" target=\"_blank\">vk.com</a></div></div></div></div><div class=\"contentSlider-pagination post-preview-pagination\"></div><div class=\"contentSlider-navigation\"><div class=\"swiper-button-prev\"></div><div class=\"swiper-button-next\"></div></div><div class=\"swiper-button-fullscreen\"></div></div><div class=\"contentVideo\"><div class=\"contentVideo-outer\"></div></div><p><em>*Сарджент Пепперс</em></p>",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": 0,
+            "price": "от 900 до 1600 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/d2/a5/d2a5754eb77d55740e95c135229f326d.jpg",
+                    "source": {
+                        "name": "",
+                        "link": "https://vk.com/psyshit_2021"
+                    }
+                }
+            ],
+            "favorites_count": 0,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/kontsert-psiheya-noyabr-2021/",
+            "short_title": "Психея",
+            "tags": [
+                "русский рок",
+                "билеты на kudago",
+                "концерты",
+                "вечером",
+                "метал",
+                "концертная программа",
+                "тяжелый рок"
+            ],
+            "participants": []
+        },
+        {
+            "id": 186144,
+            "publication_date": 1580471631,
+            "dates": [
+                {
+                    "start": 1585411200,
+                    "end": 1585411200
+                }
+            ],
+            "title": "концерт Тимы Белорусских",
+            "slug": "kontsert-tima-belorusskih-186144",
+            "place": {
+                "id": 7417
+            },
+            "description": "<p>  </p><p>Покоритель рейтингов российского стриминга Тима Белорусских представит в Краснодаре вторую часть своего хитового альбома «Моя кассета — твой первый диск».</p>",
+            "body_text": "<p>  </p><p>Миллиард прослушиваний — такими показателями может похвастаться не каждый артист. Для Тимы Белорусских, взлетевшего на вершину славы в 2018 году, это не предел. Его «Кроссы» и «Незабудка» по-прежнему покоряют всевозможные чарты, но на подходе новая студийная работа — вторая часть альбома «Моя кассета — твой первый диск». Во время гастролей 2020 года Тима Белорусских выступит в краснодарском Дворце спорта «Олимп» с программой, которая объединит и проверенные хиты, и абсолютно свежий материал.</p><p>Подробности концерта доступны на <a href=\"timaontour.ru\" target=\"_blank\">официальном сайте</a> и в <a class=\"external-link\" href=\"https://vk.com/timakrasnodar2020\" target=\"_blank\">событии «ВКонтакте»</a>.</p>",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": "6+",
+            "price": "от 1200 до 2700 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 1,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/kontsert-tima-belorusskih-186144/",
+            "short_title": "Тима Белорусских",
+            "tags": [
+                "поп-музыка",
+                "концерты",
+                "6+"
+            ],
+            "participants": [
+                {
+                    "role": {
+                        "slug": "musician"
+                    },
+                    "agent": {
+                        "id": 13381,
+                        "title": "Тима Белорусских",
+                        "slug": "tima-belorusskih",
+                        "agent_type": "person",
+                        "images": [],
+                        "site_url": "https://kudago.com/follow/tima-belorusskih/",
+                        "is_stub": true
+                    }
+                }
+            ]
+        },
+        {
+            "id": 170128,
+            "publication_date": 1526561769,
+            "dates": [
+                {
+                    "start": 1527354000,
+                    "end": 1527393600
+                }
+            ],
+            "title": "вечеринка Rock&Roll Party (open air) с участием группы Lady VinyL",
+            "slug": "vecherinka-rock-and-roll-party",
+            "place": {
+                "id": 31080
+            },
+            "description": "<p>Арт-бар «Среда Обитания» приглашает проводить весну и встретить лето на жаркой опен-эйр вечеринке в стиле рок-н-ролл. Танцевальное шоу, заводная музыка от диджеев, выступление сладкоголосых ретро-сирен из джаз-трио Lady VinyL и танцы до утра — эта ночь запомнится надолго!</p>",
+            "body_text": "<p>Модный бар «Среда Обитания» продолжает серию вечеринок на открытом воздухе и приглашает всех поклонников ночной жизни и отвязного рок-н-ролла насладиться звучанием любимой музыки и танцами до упаду.</p><p>Проводить весну шумно и со вкусом гостям поможет джаз-трио Lady VinyL и диджеи, которые уже приготовили плей-листы с лучшими композициями мирового рок-н-ролла. Также в программе выступление ведущих танцевальных школ города и костюмированная вечеринка.</p><p>Первые десять гостей, которые придут на вечеринку в рок-н-ролльных костюмах, получат комплимент от заведения и смогут сделать вечерний макияж у профессионального визажиста.</p><p>Узнать больше о баре «Среда Обитания» можно <a class=\"external-link\" href=\"https://vk.com/sredakrd\" rel=\"nofollow\" target=\"_blank\"><strong>«ВКонтакте»</strong></a>.</p>",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "party",
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": "18+",
+            "price": "",
+            "is_free": true,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 0,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/vecherinka-rock-and-roll-party/",
+            "short_title": "Rock&Roll party",
+            "tags": [
+                "джаз и блюз",
+                "вечеринки",
+                "free",
+                "концерты",
+                "ночью",
+                "потанцевать",
+                "18+",
+                "тематические вечеринки",
+                "рок и рок-н-ролл",
+                "веселье",
+                "новое на сайте"
+            ],
+            "participants": []
+        },
+        {
+            "id": 169534,
+            "publication_date": 1524660862,
+            "dates": [
+                {
+                    "start": 1524938400,
+                    "end": 1524974400
+                }
+            ],
+            "title": "LATINO PARTY в арт-пространстве «Среда Обитания»",
+            "slug": "vecherinka-latino-party-169534",
+            "place": {
+                "id": 31080
+            },
+            "description": "<p>Арт-пространство и бар «Среда Обитания» начинает отмечать майские праздники уже в апреле. Приходите на экзотичную вечеринку в стиле latino и подпевайте жгучим парням из кавер-бэнда CHICHA, танцуйте под пылкие миксы диджея ПАРФЮМЕРа, отрывайтесь на рассветной афтерпати. И помните: чем больше сомбреро, тем больше скидка!</p>\n",
+            "body_text": "<p>Ребята из «Среды Обитания» подготовили для гостей бара крышесносную вечеринку в латиноамериканском стиле. Что ожидает любителей экзотики на сумасшедшей LATINO PARTY?</p><ul><li>16:00 — в уютном дворике «Среды обитания» пройдёт открытие летней террасы.</li><li>22:00 — жгучие, как табаско, и чувственные, как мочки ушей мексиканских девушек, latino cover band CHICHA взорвут танцпол зажигательной музыкой.</li><li>00:00 — инициативу перехватит диджей ПАРФЮМЕР и замиксует для гостей страстные, пылкие, энергичные, горячие, как бразильский песок, сеты.</li><li>05:00-07:00 — самые стойкие продолжат веселиться на афтерпати и получат скидку на всё меню кухни.</li></ul><p>Приходите на вечеринку в сомбреро и получайте угощение от бара со скидкой. </p><p>Вход на вечеринку свободный. Стоимость билета на концерт latino cover band CHICHA — 250 рублей.</p><p>Подробные условия и сроки акции, а также другую информацию уточняйте в группе организаторов <a class=\"external-link\" href=\"https://vk.com/sreda__obitaniya\" target=\"_blank\">«ВКонтакте»</a>. Детали ищите в  и на YouTub<a class=\"external-link\" href=\"https://www.youtube.com/watch?v=UNAzCn3cY_E&feature=youtu.be\" target=\"_blank\">e-канале.</a></p>",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "party",
+                "concert"
+            ],
+            "tagline": "Приходите в сомбреро, получайте скидку!",
+            "age_restriction": "18+",
+            "price": "стоимость билета на концерт — 250 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 1,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/vecherinka-latino-party-169534/",
+            "short_title": "LATINO PARTY",
+            "tags": [
+                "вечеринки",
+                "концерты",
+                "ночью",
+                "потанцевать",
+                "18+",
+                "латина",
+                "веселье",
+                "новое на сайте"
+            ],
+            "participants": []
+        },
+        {
+            "id": 121601,
+            "publication_date": 1464173668,
+            "dates": [
+                {
+                    "start": 1465747200,
+                    "end": 1465754400
+                }
+            ],
+            "title": "концерт группы Il Volo",
+            "slug": "koncert-gruppy-il-volo-krsn",
+            "place": {
+                "id": 4407
+            },
+            "description": "<p>Знаменитое итальянское оперное поп-трио даст в Краснодаре большой концерт, на котором исполнит песни с нового альбома <em>Grande Amore</em> и лучшие композиции прошлых лет.</p>\n",
+            "body_text": "<p>Буквально за несколько лет группе Il Volo из солнечной Италии удалось стать символом по-настоящему качественной и во всех смыслах достойной эстрадной музыки. За короткий срок трио молодых оперных певцов с классической вокальной подготовкой сумело покорить весь мир своими выразительными голосами, музыкой, эмоциональными и запоминающимися песнями и, конечно, своим обаянием.</p>\n<p>Участникам группы Il Volo есть чем гордиться: на их счету и победа на известном песенном фестивале в Сан-Ремо, и почётное третье место на «Евровидении», и участие в туре легендарной Барбары Стрейзанд, и аншлаговые выступления на ведущих мировых площадках, и выпуск альбома, трижды становившегося платиновым.</p>\n<p>Услышать вживую известное оперное поп-трио жители Краснодара смогут в <a href=\"https://kudago.com/krd/place/muzykalnyj-teatr/\">Музыкальном театре</a>, на сцене которого коллектив даст большой концерт в рамках российского тура. Гостей вечера ждут лучшие композиции, а также презентация нового альбома <em>Grande Amore</em>. На концерте прозвучат песни как на итальянском, так и на английском и испанском языках. Коллектив выступит в сопровождении симфонического оркестра.</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": 0,
+            "price": "от 2000 до 10000 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 0,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/koncert-gruppy-il-volo-krsn/",
+            "short_title": "Il Volo",
+            "tags": [
+                "поп-музыка",
+                "концерты",
+                "классическая",
+                "этническая и фолк"
+            ],
+            "participants": []
+        },
+        {
+            "id": 113812,
+            "publication_date": 1458226864,
+            "dates": [
+                {
+                    "start": 1460134800,
+                    "end": 1460142000
+                }
+            ],
+            "title": "концерт Ивана Дорна",
+            "slug": "koncert-dorna-krasnyi",
+            "place": {
+                "id": 7424
+            },
+            "description": "<p>В рамках российского тура Randorn Tour культовый герой отечественной инди-поп сцены даст большой концерт в поддержку нового альбома.</p>\n",
+            "body_text": "<p>Иван Дорн по праву считается одним из самых ярких явлений отечественной поп-сцены, ориентированной на экспериментальный звук и лучшие иностранные образцы инди-попа и нео-соула. К своим 27 годам Дорн сумел стать звездой русскоязычных радиостанций, танцплощадок и стадионов. Певца выделяет уникальная исполнительская манера, запоминающиеся интонации, оригинальная музыка и не менее оригинальные тексты песен. Каждый <a href=\"https://kudago.com/krd/concerts/\">концерт</a> Ивана Дорна — настоящее шоу, ни в чём не уступающее выступлениям популярных западных артистов.</p>\n<p>В рамках большого российского тура в поддержку второго студийного альбома певца <em>Randorn</em> исполнитель даст концерт в краснодарском <a href=\"https://kudago.com/krd/place/ploshadka-arena-hall/\">Arena Hall</a>. На концерте можно будет услышать как песни с нового альбома, так и хиты прошлых лет. Всех поклонников Ивана Дорна ждёт незабываемое свето-визуальное шоу, живая инструментальная музыка, качественная электроника, драйв и энергия молодого харизматичного певца.</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": "12+",
+            "price": "2000 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 1,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/koncert-dorna-krasnyi/",
+            "short_title": "Иван Дорн",
+            "tags": [
+                "12+",
+                "поп-музыка",
+                "концерты",
+                "инди",
+                "танцевальная"
+            ],
+            "participants": []
+        },
+        {
+            "id": 91445,
+            "publication_date": 1440403090,
+            "dates": [
+                {
+                    "start": 1443888000,
+                    "end": 1443898800
+                }
+            ],
+            "title": "Michael Jackson Show",
+            "slug": "michael-jackson-show",
+            "place": {
+                "id": 4427
+            },
+            "description": "<p>Трибьют-шоу от победителя «Минуты славы» поразит воображение зрителей и подарит возможность необыкновенной встречи с королем поп-музыки.</p>\n",
+            "body_text": "<p>Майкл Джексон ушел из жизни шесть лет назад, но творчество его и по сей день остается непревзойденной вершиной поп-музыки. Уникальное танцевальное шоу от «R&A-production» возвращает легенду на сцену в образе уникального артиста и официального двойника Майкла Джексона – Gago Jackson’a.</p>\n<p>Этот артист потерял слух в детстве после тяжелой болезни, но научился танцевать, ощущая вибрацию басов и сумел добиться невозможного. Выступая в образе Майкла Джексона с 1999 года, спустя десять лет он стал победителем Международного гала-шоу «Минута Славы». Он работал в московских театрах двойников и выступал в лучших клубах по всей стране со многими звездами эстрады.</p>\n<p>Gago Jackson не просто в точности копирует своего любимого артиста, но и с увлечением развивает образ, дорабатывая сценические номера, участвуя в постановке танцев и создании фонограммы и придумывая собственные костюмы в стиле Джексона.</p>\n<p>Вместе с Gago Jakcson в этот день на сцену выйдут танцоры-участники шоу «Танцуй» и таких конкурсов как «Евровидение» и «Новая волна». Шоу обещает впечатляющие видеоинсталляции, световые эффекты, мгновенные смены костюмов и, конечно же, фирменную «лунную походку».</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert",
+                "entertainment"
+            ],
+            "tagline": "",
+            "age_restriction": null,
+            "price": "от 1000 до 3000 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 0,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/michael-jackson-show/",
+            "short_title": "Michael Jackson Show",
+            "tags": [
+                "лучшее в театрах",
+                "концерты",
+                "шоу",
+                "этническая и фолк",
+                "развлечения"
+            ],
+            "participants": []
+        },
+        {
+            "id": 90223,
+            "publication_date": 1439555324,
+            "dates": [
+                {
+                    "start": 1446908400,
+                    "end": 1446929400
+                }
+            ],
+            "title": "рок-фестиваль «FUCKULTET: 2 курс»",
+            "slug": "rok-festival-fuckultet-2-kurs",
+            "place": {
+                "id": 7424
+            },
+            "description": "<p>Шесть часов качественной альтернативной рок-музыки в исполнении четырех групп, появившихся на рок-сцене еще на заре 2000-х – фестиваль становится старше и выходит на новый уровень мощности и драйва.</p>\n",
+            "body_text": "<p>Хедлайнеры фестиваля – группа STIGMATA из Санкт-Петербурга – порадуют своих поклонников новым EP «Легион» и легендарными хитами. «Jane Air» увлекут в путешествие по волнам электронно-рейвового моря звука с заходом в дабстеп- и хип-хоп порты «Черной гавани». «The Korea» предстанут перед зрителями в обновленном составе с новым вокалистом Евгением Жуковым во главе и с разбавленным новыми синглами сет-листом. Наконец, удостоенные многочисленных премий, музыканты 5 diez окунут гостей фестиваля в причудливое сочетание трэш-метал, ню-метал, панк-рок, хип-хоп, техно и драм-н-бас музыки.</p>\n<p>«1 курс» фестиваля прошел вполне успешно и собрал немалое количество преданных рок-музыке «первокурсников», а также подарили одной молодой местной рок-группе возможность выйти на одну сцену с метрами альтернативы.</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert",
+                "festival"
+            ],
+            "tagline": "",
+            "age_restriction": null,
+            "price": "1000 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 0,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/rok-festival-fuckultet-2-kurs/",
+            "short_title": "FUCKULTET II",
+            "tags": [
+                "музыка",
+                "фестивали",
+                "концерты",
+                "рок и рок-н-ролл"
+            ],
+            "participants": []
+        },
+        {
+            "id": 89049,
+            "publication_date": 1438781667,
+            "dates": [
+                {
+                    "start": 1438959600,
+                    "end": 1438981200
+                }
+            ],
+            "title": "день рождения Harat's Pub",
+            "slug": "den-rozhdeniya-harats-pub",
+            "place": {
+                "id": 19429
+            },
+            "description": "<p>В честь праздника Harat's Pub устраивают уличный концерт прямо возле входа в бар. Посетителям гарантируется отрыв в духе ска и рок-н-ролл, море горячительных напитков и отличное настроение.</p>\n",
+            "body_text": "<p>Что может быть лучше, чем провести пятничный вечер, танцуя под открытым небом? Harat's Pub дарит такую возможность своим постоянным (и не очень) клиентам, приглашая их на свой день рождения. Прямо возле входа в паб расположится сцена, на которой выступят лучшие местные ска и рок-группы: Doodle, Rockoshans band и Ботаникал Гардэн.</p>\n<p>Отрыв под задорные звуки саксофона, трубы и гитары продлится до самой ночи. Всех гостей ждут угощения, напитки, конкурсы и подарки. День рождения паба — лучший способ отпраздновать один из уикендов последнего летнего месяца. Надевайте удобную обувь и — в пляс!</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": "18+",
+            "price": "",
+            "is_free": true,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 0,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/den-rozhdeniya-harats-pub/",
+            "short_title": "",
+            "tags": [
+                "free",
+                "18+",
+                "концерты",
+                "рок и рок-н-ролл"
+            ],
+            "participants": []
+        },
+        {
+            "id": 88835,
+            "publication_date": 1438702613,
+            "dates": [
+                {
+                    "start": 1446901200,
+                    "end": 1446912000
+                }
+            ],
+            "title": "концерт «Лабиринты джаза»",
+            "slug": "koncert-labirinty-dzhaza",
+            "place": {
+                "id": 4427
+            },
+            "description": "<p>Эстрадный оркестр под руководством Вадима Кузьминского, заслуженного артиста Кубани, выступит с новой джазовой программой.</p>\n",
+            "body_text": "<p>Эстрадный оркестр существует уже более 20 лет. В начале 90-х его сформировали сразу из нескольких творческих коллективов Кубани. Оркестр получил большую популярность в Краснодаре, а затем по всей России и за рубежом. Сегодня коллектив много гастролирует с различными музыкальными проектами. В репертуаре оркестра – популярные произведения эстрадной и симфонической музыки. В концерте «Лабиринты джаза» музыканты исполнят инструментальные и песенные номера: известные джазовые произведения, а также композиции из фильмов и мюзиклов.</p>\n<p>Руководитель оркестра приглашает на концерт «Лабиринты джаза» слушателей любых возрастов. По его словам, виртуозное исполнение джаза никого не оставит равнодушным.</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": null,
+            "price": "уточняется",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 0,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/koncert-labirinty-dzhaza/",
+            "short_title": "лабиринты джаза",
+            "tags": [
+                "джаз и блюз",
+                "концерты"
+            ],
+            "participants": []
+        },
+        {
+            "id": 88773,
+            "publication_date": 1438615635,
+            "dates": [
+                {
+                    "start": 1446987600,
+                    "end": 1446998400
+                }
+            ],
+            "title": "концерт «Нескучная классика»",
+            "slug": "neskuchnaya-klassika-krasnodar",
+            "place": {
+                "id": 4427
+            },
+            "description": "<p>Популярные русские и зарубежные классические произведения в исполнении Краснодарского Государственного камерного хора.</p>\n",
+            "body_text": "<p>Коллектив под управлением НАР Вячеслава Яковлева исполнит музыкальные произведения русской и зарубежной классической музыки. В программе – композиции Чайковского, Рахманинова, Брамса, Моцарта и Баха. Среди произведений, которые музыканты исполнят на концерте – Литургия Иоанна Златоуста и «Всенощное бдение».</p>\n<p>Краснодарский Камерный хор появился еще 27 лет назад. В репертуаре коллектива – произведения, направленные на возрождение и поддержание Кубанских православных традиций. Благодаря мастерству исполнения непростого музыкального жанра, хор получил большую известность в Краснодаре, а после и по всей России.</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": null,
+            "price": "уточняется",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 0,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/neskuchnaya-klassika-krasnodar/",
+            "short_title": "нескучная классика",
+            "tags": [
+                "концерты",
+                "классическая"
+            ],
+            "participants": []
+        },
+        {
+            "id": 88747,
+            "publication_date": 1438615533,
+            "dates": [
+                {
+                    "start": 1443369600,
+                    "end": 1443380400
+                }
+            ],
+            "title": "концерт Comedy Woman",
+            "slug": "koncert-comedy-woman",
+            "place": {
+                "id": 4426
+            },
+            "description": "<p>Выступление резидентов популярной юмористической телепрограммы Comedy Woman. Участницы представят в Краснодаре премьеру нового шоу.</p>\n",
+            "body_text": "<p>В программе концерта – юмористические стендапы на темы любви и отношений, шутливые сценки про женскую дружбу, зависть и глупость. Резиденты клуба споют и станцуют, выступят с монологами о мужчинах и диетах, поспорят друг с другом и вновь помирятся. Как заявляют резиденты клуба Comedy Woman, выступление будет интересно не только женщинам, но и мужчинам – оно поможет лучше понять девушек и отнестись к некоторым их странностям с улыбкой.</p>\n<p>Comedy Woman – юмористическая шоу-программа, созданная в 2008 году. Все участники клуба – выходцы из КВН. Женская реплика мужского Comedy Club получила большую популярность у зрителей, и последние несколько лет резиденты успешно гастролирует по России и за ее пределами.</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": null,
+            "price": "1500–4000 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 4,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/koncert-comedy-woman/",
+            "short_title": "Comedy Woman",
+            "tags": [
+                "лучшее в театрах",
+                "концерты",
+                "шоу",
+                "премьеры",
+                "comedy club"
+            ],
+            "participants": []
+        },
+        {
+            "id": 88730,
+            "publication_date": 1438594379,
+            "dates": [
+                {
+                    "start": 1445788800,
+                    "end": 1445796000
+                }
+            ],
+            "title": "концерт ведущих звезд фламенко",
+            "slug": "koncert-zvezd-flamenko",
+            "place": {
+                "id": 4427
+            },
+            "description": "<p>Страстный танец фламенко под зажигательные ритмы гитары – ведущие артисты Испании представят новую программу Roja Rosa.</p>\n",
+            "body_text": "<p>В концертной программе Roja Rosa выступят 8 танцоров из солнечной Испании. Популярные исполнители фламенко представят российскому зрителю настоящую красочную шоу-программу. Песни и чувственный танец под аккомпанемент гитары – три составляющие традиционного фламенко.</p>\n<p>История возникновения этого танца уходит корнями в далекие времена. Фламенко относят к цыганской культуре, поэтому танец долгое время существовал только в пределах одной нации. Впоследствии фламенко возродился и обрел большую популярность во всем мире. Сегодня насчитывают уже более 50 различных стилей его исполнения.</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": null,
+            "price": "800–2500 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 0,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/koncert-zvezd-flamenko/",
+            "short_title": "концерт ведущих звезд фламенко",
+            "tags": [
+                "концерты",
+                "танцевальная"
+            ],
+            "participants": []
+        },
+        {
+            "id": 88261,
+            "publication_date": 1438082012,
+            "dates": [
+                {
+                    "start": 1442935800,
+                    "end": 1442944800
+                }
+            ],
+            "title": "концерт «И рок, и классика, и джаз»",
+            "slug": "i-rok-i-klassika-i-dzhaz",
+            "place": {
+                "id": 4427
+            },
+            "description": "<p>Классическая музыка и джазовые произведения – на русских народных инструментах в исполнении оркестра «Виртуозы Кубани».</p>\n",
+            "body_text": "<p>Оказывается, на русских народных инструментах можно сыграть любые произведения. Музыканты оркестра «Виртуозы Кубани» это доказали. Они не боятся экспериментов: классическая музыка на балалайках, джаз на гармони и рок на гуслях. Такие новшества музыку не портят, а только украшают. Но эксперименты затронут также музыкальные стили и жанры. Известные каждому произведения зазвучат по-особенному – свежо и ново.</p>\n<p>В программе концерта музыка Гладкова, Чернявского, Чувилина, Онисова. Музыканты оркестра «Виртуозы Кубани» приглашают всех взглянуть на необыкновенные превращения знакомых мелодий и оценить, как универсальны и безграничны русские народные инструменты.</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": null,
+            "price": "уточняется",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 0,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/i-rok-i-klassika-i-dzhaz/",
+            "short_title": "и рок, и классика, и джаз",
+            "tags": [
+                "джаз и блюз",
+                "рок и рок-н-ролл",
+                "концерты",
+                "классическая"
+            ],
+            "participants": []
+        },
+        {
+            "id": 88148,
+            "publication_date": 1438077559,
+            "dates": [
+                {
+                    "start": 1450281600,
+                    "end": 1450292400
+                }
+            ],
+            "title": "шоу «Уральские пельмени»",
+            "slug": "shou-uralskie-pelmeni-krd",
+            "place": {
+                "id": 4426
+            },
+            "description": "<p>Самая популярная команда КВН, выросшая в самостоятельное творческое объединение и создавшая собственное юмористическое телевизионное шоу, готовит для своих поклонников программу «Избранное», в которую войдут самые лучшие образцы отменного юмора екатеринбургских артистов.</p>\n",
+            "body_text": "<p>«Уральские пельмени» уже давно стали легендой отечественной юмористической сцены. Их шутки «уходят в народ», а билеты на концерты раскупаются в течение нескольких часов после поступления в продажу.</p>\n<p>Мастера искрометных шуток, незабываемых миниатюр и ярких импровизаций начали свой творческий путь в 1993 году, организовав команду КВН. Спустя девять лет после того, как «Уральские пельмени» завоевали звание чемпионов Высшей Лиги, на канале СТС появилась одноименная шоу-программа, а участники «Уральских пельменей» стали появляться в самых известных отечественных телевизионных проектах.</p>\n<p>13 артистов под руководством продюсера Сергея Нетиевского не только выступают с юмористическими шоу, но и сами придумывают сценические номера наравне с группой сценаристов, работающей на различных проектах «Уральских пельменей». Широта творческой деятельности этой команды не знает границ: организация и проведение концертов и фестивалей, создание радио- и телепередач, режиссура, реклама и, конечно же, постоянные гастроли по стране.</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert",
+                "entertainment"
+            ],
+            "tagline": "",
+            "age_restriction": null,
+            "price": "от 3000 до 5500 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 5,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/shou-uralskie-pelmeni-krd/",
+            "short_title": "Уральские пельмени",
+            "tags": [
+                "концерты",
+                "стендап",
+                "квн",
+                "развлечения"
+            ],
+            "participants": []
+        },
+        {
+            "id": 88129,
+            "publication_date": 1438075592,
+            "dates": [
+                {
+                    "start": 1442590200,
+                    "end": 1442599200
+                }
+            ],
+            "title": "концерт «Венецианская рапсодия»",
+            "slug": "koncert-venecianskaya-rapsodiya",
+            "place": {
+                "id": 4427
+            },
+            "description": "<p>Концерт симфонической музыки итальянских композиторов XVII-XXI веков, посвящен одному из самых романтических городов мира – Венеции.</p>\n",
+            "body_text": "<p>На протяжении столетий это место давало вдохновение музыкантам, художникам, архитекторам и скульпторам. Один из самых известных представителей музыкальной Венеции – Вивальди. Его произведения прозвучат на концерте «Венецианская рапсодия» наряду с сочинениями Верди и Рота.</p>\n<p>Произведения итальянских композиторов прозвучат в исполнении Государственного эстрадного оркестра. Заслуженные артисты Кубани, лауреаты всероссийских и международных конкурсов на один вечер перенесут зрителей в атмосферу Старой Италии. Гости услышат музыку от времен Эпохи Возрождения до Нового времени. Исполнители представят целый пласт музыкальной европейской культуры.</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": null,
+            "price": "уточняется",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 2,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/koncert-venecianskaya-rapsodiya/",
+            "short_title": "венецианская рапсодия",
+            "tags": [
+                "концерты",
+                "классическая"
+            ],
+            "participants": []
+        },
+        {
+            "id": 88112,
+            "publication_date": 1438074800,
+            "dates": [
+                {
+                    "start": 1443110400,
+                    "end": 1443121200
+                }
+            ],
+            "title": "благотворительный концерт группы «Город 312»",
+            "slug": "blagotvoritelnyj-koncert-gruppy-gorod-312",
+            "place": {
+                "id": 7460
+            },
+            "description": "<p>На вечере в поддержку фонда выступят юные артисты Краснодара и популярные звезды. Среди них – «Город 312».</p>\n",
+            "body_text": "<p>Денежные средства, полученные от продажи билетов пойдут на лечение больных детей и подростков, которые находятся в сложной жизненной ситуации.</p>\n<p>Фонд «Анастасия» существует с 2013 года. За это время его волонтеры собрали более 5 млн на поддержку 13 медицинских учреждений, в которых лечатся малыши со сложными заболеваниями. Более пяти десятков детей получили с 2013 года адресную помощь за счет организации. Также фонд регулярно проводит благотворительные акции помощи.</p>\n<p>Организаторы называют будущий концерт самым добрым вечером сентября, ведь именно в этот день многие жители города смогут лично внести вклад в будущее тяжелобольных детей. «Протяните руку помощи больному ребенку – неважно, малыш он или подросток», – заявляет Глава фонда «Анастасия» Марина Шамара.</p>\n",
+            "location": {
+                "slug": "krd"
+            },
+            "categories": [
+                "social-activity",
+                "concert"
+            ],
+            "tagline": "",
+            "age_restriction": null,
+            "price": "1000 рублей",
+            "is_free": false,
+            "images": [
+                {
+                    "image": "https://media.kudago.com/images/event/82/bb/82bb410cca413007c5598f40c6ebd68c.jpg",
+                    "source": {
+                        "name": "",
+                        "link": ""
+                    }
+                }
+            ],
+            "favorites_count": 2,
+            "comments_count": 0,
+            "site_url": "https://krd.kudago.com/event/blagotvoritelnyj-koncert-gruppy-gorod-312/",
+            "short_title": "город 312",
+            "tags": [
+                "поп-музыка",
+                "концерты",
+                "благотворительность"
+            ],
+            "participants": []
+        }
+    ]
+}
