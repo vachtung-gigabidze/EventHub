@@ -45,11 +45,11 @@ class _ExploreScreenState extends State<ExploreScreen> {
               child: Column(
                 children: [
                   SizedBox(
-                    height: 156,
+                    height: 210,
                     child: Stack(children: [
                       Container(
-                        height: 135,
-                        width: 375,
+                        height: 190,
+                        width: 410,
                         decoration: const BoxDecoration(
                           color: Color(0xff4a43ec),
                           borderRadius: BorderRadius.only(
@@ -59,7 +59,7 @@ class _ExploreScreenState extends State<ExploreScreen> {
                         child: const Column(
                           children: [
                             SizedBox(
-                              height: 5,
+                              height: 55,
                             ),
                             LocationWidget(),
                             SizedBox(
@@ -70,7 +70,7 @@ class _ExploreScreenState extends State<ExploreScreen> {
                         ),
                       ),
                       const Positioned(
-                          bottom: 0, width: 375, child: CategoryRowWidget())
+                          bottom: 0, width: 410, child: CategoryRowWidget())
                     ]),
                   ),
                   const SizedBox(
@@ -99,7 +99,7 @@ class _ExploreScreenState extends State<ExploreScreen> {
                     ),
                   ),
                   const SizedBox(
-                    width: 375,
+                    width: 410,
                     child: SingleChildScrollView(
                       scrollDirection: Axis.horizontal,
                       child: Row(
@@ -113,7 +113,7 @@ class _ExploreScreenState extends State<ExploreScreen> {
                     ),
                   ),
                   const SizedBox(
-                    width: 375,
+                    width: 410,
                     child: Row(
                       children: [
                         SizedBox(
@@ -135,7 +135,7 @@ class _ExploreScreenState extends State<ExploreScreen> {
                     ),
                   ),
                   const SizedBox(
-                    width: 375,
+                    width: 410,
                     child: SingleChildScrollView(
                       scrollDirection: Axis.horizontal,
                       child: Row(

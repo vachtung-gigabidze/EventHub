@@ -1,3 +1,4 @@
+import 'package:even_hub/constants.dart';
 import 'package:even_hub/screens/share_bottom_sheet.dart';
 import 'package:flutter/material.dart';
 
@@ -10,13 +11,13 @@ class EventDetailsScreen extends StatelessWidget {
       body: SingleChildScrollView(
         scrollDirection: Axis.vertical,
         child: SizedBox(
-          width: 375,
+          width: K.height,
           child: Column(
             children: [
               Stack(
                 children: [
                   Image.asset('assets/images/party.png',
-                      width: 375, height: 244, fit: BoxFit.fill),
+                      width: K.height, height: 244, fit: BoxFit.fill),
                   Positioned(
                       bottom: 13,
                       right: 14.32,
@@ -177,7 +178,7 @@ class EventDetailsScreen extends StatelessWidget {
                       height: 18,
                     ),
                     const Text(
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                         style: TextStyle(fontSize: 16)),
                   ],
                 ),
